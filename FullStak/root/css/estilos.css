@@ -1,0 +1,32 @@
+
+body {
+    background-image: url(../img/fon.jpg);
+}
+letra1 {
+  text-align: center;
+  color: rgb(10, 16, 73);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 250%;
+}
+p {
+  color: rgb(0, 0, 0);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 110%;
+}
+h2{
+  color: rgb(28, 32, 78);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 160%;
+}
+h3{
+  color: rgb(69, 72, 119);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 150%;
+}
+
+
+h4 {
+  color: #1b1b2efa;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 120%;
+}

@@ -1,0 +1,24 @@
+{
+background-image: url(../img/fondo.jpg);
+}
+
+
+h1{
+    text-align: center;
+    color: rgb(10, 16, 73);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 250%;
+}
+
+h2 {
+    text-size-adjust: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200%;
+}
+
+p{
+    color: rgb(12, 14, 43);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100%;
+}
